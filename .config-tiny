@@ -8,7 +8,7 @@ CONFIG_HOST_OS_LINUX=y
 # CONFIG_HOST_OS_MACOS is not set
 # CONFIG_TARGET_airoha is not set
 # CONFIG_TARGET_sunxi is not set
-# CONFIG_TARGET_amlogic is not set
+CONFIG_TARGET_amlogic=y
 # CONFIG_TARGET_silicon is not set
 # CONFIG_TARGET_apm821xx is not set
 # CONFIG_TARGET_ath25 is not set
